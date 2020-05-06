@@ -1,4 +1,4 @@
 # augmented-reality
-Program and video required for program of my you tube video of augmented reality
-
-You can even choose your own video
+Program of my you-tube video of augmented reality
+Video link: https://youtu.be/DviB93RC0_A
+You can choose your own video for background...
